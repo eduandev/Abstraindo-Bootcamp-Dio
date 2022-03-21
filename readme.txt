@@ -4,7 +4,7 @@ Este projeto consiste em um desafio que faz parte do bootcamp da GFT Quality Ass
 
 ## tarefas
 
-O controle das tarefas desse bootcamp foram realizadas com o git, o objetivo é realizar mais funcionalidades de especificações e atualizações. 
+O controle das tarefas desse bootcamp foram realizadas com o git, o objetivo é desenvolver mais funcionalidades de especificações e atualizações. 
 
 ### icones
 
