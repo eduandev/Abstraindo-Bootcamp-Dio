@@ -11,4 +11,4 @@ O controle das tarefas desse bootcamp foram realizadas com o git, o objetivo é 
 - :checkered_flag: release
 - :package: novas funcionalidades
 - :up: atualização
-- :snap: correção de bug
+- :snail: correção de bug
