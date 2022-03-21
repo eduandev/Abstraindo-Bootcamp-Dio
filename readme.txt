@@ -1,9 +1,14 @@
-GUI Form Example Descriptions
-================================================================================
+# Desafio Bootcamp Dio
 
-This project contains three visual forms that were designed with the IDE's
-GUI Builder. You can open these forms in the IDE, and you can view accompanying 
-demos that show you how those forms can be created in the IDE.
+Este projeto consiste em um desafio que faz parte do bootcamp da GFT Quality Assurance #1 na dio
 
-:up:
+## tarefas
 
+O controle das tarefas desse bootcamp foram realizadas com o git, o objetivo é realizar mais funcionalidades de especificações e atualizações. 
+
+### icones
+
+- :checkered_flag: release
+- :package: novas funcionalidades
+- :up: atualização
+- :freepik: correção de bug
